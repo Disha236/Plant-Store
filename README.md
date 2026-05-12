@@ -4,7 +4,7 @@ A modern and responsive Plant Store web application built using React and Vite. 
 
 ## 🚀 Live Demo
 
-[https://plant-store-eight-taupe.vercel.app/](https://plant-store-eight-taupe.vercel.app/)
+https://plant-store-mauve.vercel.app/
 
 ---
 
