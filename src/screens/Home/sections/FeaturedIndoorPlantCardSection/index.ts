@@ -1,0 +1,1 @@
+export { FeaturedIndoorPlantCardSection } from "./FeaturedIndoorPlantCardSection";
